@@ -1,3 +1,4 @@
+
 # My first python script
 
 name = "Namu"
@@ -17,3 +18,4 @@ if username == "Namu" and password == "1234":
     print("Login successful!")
 else:
     print("Login failed. Please check your username and password.") 
+
